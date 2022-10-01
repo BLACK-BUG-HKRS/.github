@@ -1,1 +1,1 @@
-<p align="center"><a href="https://github.com/BLACK-BUG-HKRS"><img src="./profile/Assets/tentocats.png" alt="Social banner for BLACK BUG HKRS" width="700px" height="600px"></a></p>
+<p align="center"><a href="https://github.com/BLACK-BUG-HKRS"><img src="./profile/Assets/tentocats.png" alt="Social banner for BLACK BUG HKRS" width="700px" height="700px"></a></p>
