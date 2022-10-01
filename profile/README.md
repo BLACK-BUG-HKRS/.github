@@ -5,4 +5,4 @@
 <br/>
 
 
-<h3>A group of security researchers at work!, gladly if you join us..</h3>
+<!-- <h3>A group of security researchers at work!, gladly if you join us..</h3> -->
