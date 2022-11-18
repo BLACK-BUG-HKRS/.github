@@ -6,4 +6,4 @@
 
 
 <h3 align ="center">A group of security researchers at work!, gladly if you join us..!</h3>
-<h4 align="center">Contact <a href="https://github.com/Major2000">Edgar Nyandoro</a> to join.!</h4>
+<h4 align="center">Contact <a href="https://github.com/Major2000">@major2000</a> to join.!</h4>
